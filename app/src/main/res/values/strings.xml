@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PrecoUnitario</string>
+    <string name="hello">Bem Vindo</string>
+    <string name="create_account">Crie sua Conta</string>
+    <string name="welcome">Bem vindo de Volta</string>
+    <string name="first_name">Primeiro nome</string>
+    <string name="last_name">Ultimo nome</string>
+    <string name="email">usuario@dominio.com.br</string>
+    <string name="password">Senha</string>
+    <string name="show_password">Mostrar Senha</string>
+    <string name="hide_password">Ocultar Senha</string>
+    <string name="term_and_condition">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="term_and_condition_heading">Term of Use</string>
+    <string name="register">Criar conta</string>
+    <string name="login">Logar</string>
+    <string name="or">ou</string>
+    <string name="do_your_login">Faça seu login</string>
+    <string name="forgot_your_password">Esqueceu a sua senha?</string>
+    <string name="do_you_have_a_acount">Já possui uma conta?</string>
+    <string name="doesnt_have_a_Account">Ainda não tem uma conta?</string>
+    <string name="HomeScreenTitle">Home</string>
+    <string name="logout">Sair</string>
+    <string name="unit_price">Preço Unitário</string>
+    <string name="product_name">Nome do Produto</string>
+    <string name="quantity">Quantidade</string>
+    <string name="user_is_not_Login">Usuário não esta logado</string>
+    <string name="delete_calculation">Deletar Calculo?</string>
+</resources>

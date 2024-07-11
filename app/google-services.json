@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033944872192",
+    "project_id": "precounitario",
+    "storage_bucket": "precounitario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033944872192:android:4fa9ff2d5b67456cf76fe5",
+        "android_client_info": {
+          "package_name": "br.com.dev.tps.precounitario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAELSriD5ai5C-rAhuwvGPeFNPfAViSsmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
